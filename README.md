@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35282342/README.md)
 # Agente Telegram + HubSpot
 
 Asistente de Telegram en español para consultar y gestionar HubSpot mediante lenguaje natural. Diseñado para dos usuarios autorizados y despliegue en Railway.
